@@ -1,8 +1,4 @@
-## Hi there, we are Iris! 👋
-
-### 😎 Who we are
-
-We are a bunch of cool people enthusiastic about how humans interact with the world around us. We like to do foundational research within the broad spectrum of human spatial cognition, especially in the built environment and the virtual world. We also like to use our knowledge to develop cutting-edge technologies that change the way we live, and create artworks that broaden imagination. 
+## At Latent Design, creativity meets simulation intelligence.
 
 
 
